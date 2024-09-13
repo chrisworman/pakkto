@@ -1,0 +1,18 @@
+{
+  "name": "pakkto",
+  "version": "0.0.1",
+  "description": "Opinionated zero-dependency web app framework",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "dist": "tsc"
+  },
+  "author": "Chris Worman <chrisworman@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
